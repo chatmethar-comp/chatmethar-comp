@@ -9,3 +9,5 @@ Contact
 Education
 2018 - Hatyaiwittayalai School
 2021 - Computer Engineering KMITL 👈
+
+![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
