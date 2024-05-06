@@ -1,4 +1,4 @@
-Third-year computer engineering student with a passion for software technology. Currently, I am trying to learn software programming every day and looking for oppurtunity to express my potentials.
+Forth-year computer engineering student with a passion for software technology. Currently, I am trying to learn software programming every day and looking for oppurtunity to express my potentials.
 
 ## Contact
 
